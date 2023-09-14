@@ -23,7 +23,7 @@ const Footer = () => {
           <a
             data-aos="fade-up"
             data-aos-duration="1200"
-            href=""
+            href="https://api.whatsapp.com/send/?phone=917046292419&text=Chat+open+by+https%3A%2F%2Fwhatsappdialer.otutom.com%2Fen%2F&type=phone_number&app_absent=0"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoLogoWhatsapp className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -32,7 +32,7 @@ const Footer = () => {
           <a
             data-aos="fade-up"
             data-aos-duration="1400"
-            href=""
+            href="https://instagram.com/vadadoriyajay2002?utm_source=qr&igshid=MThlNWY1MzQwNA=="
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
