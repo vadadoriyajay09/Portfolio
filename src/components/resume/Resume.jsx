@@ -41,7 +41,7 @@ const Resume = () => {
                   Globalia Soft LLP
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2022 - July 2023
+                  June 2020 - July 2021
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   During my one-year experience as a web designer at Globalia
@@ -57,9 +57,32 @@ const Resume = () => {
                 </p>
               </div>
             </div>
+             <div className=" relative mt-7">
+              {/* design */}
+              <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
+                <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+                <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
+                <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
+              </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Frontend Developer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  codeline infotech
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  June 2021 - July 2022
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  During my one-year experience as a Frontend Developer at Codeline Infotech, I gained valuable insights into the dynamic world of web development. I honed my skills in crafting engaging and intuitive user interfaces, worked closely with cross-functional teams to implement web projects, and adapted to evolving design trends and client requirements. This experience deepened my understanding of the significance of responsive web design, user experience, and effective collaboration in delivering high-quality web solutions that align with both user needs and business objectives.
+                </p>
+              </div>
+            </div>
           </fieldset>
         </div>
-        <div className="right flex-1 flex items-center justify-center">
+        <div className="right flex-1 flex items-start justify-center">
           <fieldset
             data-aos="zoom-in"
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
@@ -80,18 +103,13 @@ const Resume = () => {
                   B.Tech, Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  Gujarat University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Year 2019 - Year 2023
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  A Bachelor of Technology (B.Tech) in Computer Science graduate with a strong foundation in computer programming, algorithms, and software development. Proficient in a variety of programming languages and tools, with a passion for solving complex problems and creating innovative solutions. Adept at collaborating in interdisciplinary teams and adapting to emerging technologies, with a commitment to lifelong learning and professional growth.
                 </p>
               </div>
             </div>

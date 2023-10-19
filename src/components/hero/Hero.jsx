@@ -70,12 +70,16 @@ const Hero = () => {
               className=" flex justify-between w-[48%]"
             >
               <li>
-                <a href="https://github.com/vadadoriyajay09">
+                <a 
+                // href="https://github.com/vadadoriyajay09"
+                >
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/jay-vadadoriya-59b709224/">
+                <a 
+                // href="https://www.linkedin.com/in/jay-vadadoriya-59b709224/"
+                >
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
