@@ -41,7 +41,7 @@ const Resume = () => {
                   Globalia Soft LLP
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2020 - July 2021
+                  June 2022 - July 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   During my one-year experience as a web designer at Globalia
@@ -57,7 +57,7 @@ const Resume = () => {
                 </p>
               </div>
             </div>
-             <div className=" relative mt-7">
+            <div className=" relative mt-7">
               {/* design */}
               <div className="design flex absolute left-[-150px] top-1/2 items-center rotate-[90deg] sm:left-[-160px] ">
                 <div className="c1 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
@@ -73,7 +73,7 @@ const Resume = () => {
                   codeline infotech
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2021 - July 2022
+                  June 2023 - July 2024
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   During my one-year experience as a Frontend Developer at Codeline Infotech, I gained valuable insights into the dynamic world of web development. I honed my skills in crafting engaging and intuitive user interfaces, worked closely with cross-functional teams to implement web projects, and adapted to evolving design trends and client requirements. This experience deepened my understanding of the significance of responsive web design, user experience, and effective collaboration in delivering high-quality web solutions that align with both user needs and business objectives.
@@ -100,13 +100,13 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                  B.Com
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   Gujarat University
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2019 - Year 2023
+                  Year 2019 - Year 2022
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                   A Bachelor of Technology (B.Tech) in Computer Science graduate with a strong foundation in computer programming, algorithms, and software development. Proficient in a variety of programming languages and tools, with a passion for solving complex problems and creating innovative solutions. Adept at collaborating in interdisciplinary teams and adapting to emerging technologies, with a commitment to lifelong learning and professional growth.

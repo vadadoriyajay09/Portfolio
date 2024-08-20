@@ -1,28 +1,27 @@
-
+import Hrms from "../assets/hrms-systm.png";
+import Autodukan from "../assets/autodukan.png";
+import Talkangels from "../assets/talkangels.png";
 
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
-    title: "Multimedia Web",
-    desc: "",
-    link: "",
-    git: "",
+    img: Hrms,
+    title: "human resource management system",
+    link: "https://hrms-codeline.vercel.app/admin/dashboard",
+    desc: "The HRMS will provide an automated web-based system that will support the ... code line, ending a DOC history of bureau HR system autonomy",
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "Tarvel Agency",
-    link: "",
-    git: "",
+    img: Autodukan,
+    title: "car spare parts and accessories",
+    desc: "AutoDukan offers a wide range of car spare parts and accessories online in India. Shop now for low prices, all car makes & models, and fast shipping across",
+    link: "https://autodukan.com/",
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/wBjcJcW7/5890625.jpg',
-    title: "Music Player",
-    desc: "",
-    link: "",
-    git: "",
+    img: Talkangels,
+    title: "Aalkangels",
+    desc: "Join the exciting journey of meeting new friends within our vibrant community of over one million users!",
+    link: "https://www.talkangels.com/",
   }
-  
 ];
